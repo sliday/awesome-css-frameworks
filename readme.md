@@ -68,6 +68,12 @@ Frameworks that use semantic HTML and do not rely on classes.
   ![](https://img.shields.io/github/stars/yegor256/tacit.svg?style=social&label=Star)
   [Repo](https://github.com/yegor256/tacit/)
   | #SCSS
+  - [**DAUB**](https://daub.dev/) - Considered CSS component library — 73 components, 20 theme families, classless mode, AI-ready with llms.txt and MCP server.
+    [![](https://img.shields.io/github/stars/sliday/daub.svg?style=social&label=Star)](https://github.com/sliday/daub)
+    [Demo](https://daub.dev),
+    [Docs](https://daub.dev/llms.txt),
+    [Repo](https://github.com/sliday/daub)
+    | #CSS #JS
 
 
 ## Very Lightweight
